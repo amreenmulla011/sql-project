@@ -1,5 +1,5 @@
 -- Importing large data more than lakhs of rows
-USE WAKAD9AM;
+USE AthetesData;
 -- 1. Create the table athletes
 create table athletes(
 	Id int,
